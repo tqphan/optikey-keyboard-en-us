@@ -40,9 +40,8 @@
       <KeyToggle>LWin</KeyToggle>
     </DynamicKey>
     <DynamicKey Row="0" Col="4">
-      <Symbol>ArrowPointingToBottomBoundaryIcon</Symbol>
-      <KeyDown>END</KeyDown>
-      <KeyUp>END</KeyUp>
+      <Label>x</Label>
+      <Text>x</Text>
     </DynamicKey>
     <DynamicKey Row="0" Col="5">
       <Label>1</Label>
