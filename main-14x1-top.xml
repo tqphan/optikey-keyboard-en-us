@@ -65,7 +65,7 @@
       <KeyUp>LWIN</KeyUp>
     </DynamicKey>
     <DynamicKey Row="0" Col="10">
-      <Symbol>UpDowntCircle</Symbol>
+      <Symbol>TransferUpDownIcon</Symbol>
       <KeyDown>LWIN</KeyDown>
       <KeyDown>LSHIFT</KeyDown>
       <KeyDown>LEFT</KeyDown>

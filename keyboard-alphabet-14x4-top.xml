@@ -11,32 +11,12 @@
   <BackgroundColor>#ffffff</BackgroundColor>
   <BorderColor>#ffffff</BorderColor>
   <WindowState>Floating</WindowState>
+  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
+  <PersistNewState>false</PersistNewState>
   <Grid>
     <Rows>4</Rows>
     <Cols>14</Cols>
   </Grid>
-  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
-  <PersistNewState>false</PersistNewState>
-  <!-- <KeyGroup Name="All" BackgroundColor="#333333" KeyDisabledBackground="gray"
-  KeyDownBackground="blue" /> -->
-  <KeyGroup Name="Modifier" BackgroundColor="#2a2640" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Navigation" BackgroundColor="DarkSlateGray" KeyDisabledBackground="gray"
-    KeyDownBackground="blue" />
-  <KeyGroup Name="Alphabet" BackgroundColor="#333333" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Numeric" BackgroundColor="#2a2640" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Edit" BackgroundColor="#2a2640" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Punctuation" BackgroundColor="#222831" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Pagination" BackgroundColor="#10394c" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Exit" BackgroundColor="#0c240c" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Mirror" BackgroundColor="#0c240c" ForegroundColor="#ffffff"
-    KeyDisabledBackground="gray" KeyDownBackground="blue" />
   <Content>
     <!-- Row 0 -->
     <DynamicKey Row="0" Col="0">
@@ -45,7 +25,7 @@
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="0" Col="1">
-      <Symbol>TabIcon</Symbol>
+      <Symbol>TabKeyIcon</Symbol>
       <Text>&#9;</Text>
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
@@ -116,7 +96,7 @@
       <KeyGroup>Punctuation</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="0" Col="13">
-      <Symbol>BackOneIcon</Symbol>
+      <Symbol>BackspaceKeyIcon</Symbol>
       <Action>BackOne</Action>
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
@@ -297,7 +277,7 @@
       <KeyGroup>Pagination</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="3" Col="2">
-      <Symbol>ClearIcon</Symbol>
+      <Symbol>EraserIcon</Symbol>
       <Action>ClearScratchpad</Action>
       <KeyGroup>Exit</KeyGroup>
     </DynamicKey>
@@ -305,8 +285,11 @@
       <KeyGroup>Suggestion</KeyGroup>
     </SuggestionRow>
     <DynamicKey Row="3" Col="11">
-      <Symbol>Sleep</Symbol>
-      <Action>Sleep</Action>
+      <Symbol>ConversationIcon</Symbol>
+      <KeyDown>LWIN</KeyDown>
+      <Text>c</Text>
+      <KeyUp>LWIN</KeyUp>
+      <Action>ClearScratchpad</Action>
       <KeyGroup>Exit</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="3" Col="12">

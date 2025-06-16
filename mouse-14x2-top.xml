@@ -69,15 +69,15 @@
       <Action>MouseMiddleDownUp</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="11">
-      <Symbol>MouseMagnifierIcon</Symbol>
+      <Symbol>ZoomToLocationIcon</Symbol>
       <Action>MouseMagnifier</Action>
     </DynamicKey>
         <DynamicKey Row="0" Col="12">
-      <Symbol>CheckMarkIcon</Symbol>
+      <Symbol>PandaIcon</Symbol>
       <Action>MouseMoveAmountInPixels</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="13">
-      <Symbol>CheckMarkIcon</Symbol>
+      <Symbol>DolphinIcon</Symbol>
       <Action>MouseScrollAmountInClicks</Action>
     </DynamicKey>
     <DynamicKey Row="1" Col="0">
