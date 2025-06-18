@@ -25,24 +25,23 @@
   <Content>
     <DynamicKey Row="0" Col="0">
       <Symbol>UpArrowKeyIcon</Symbol>
-      <!-- <Label>🔊</Label> -->
       <ChangeKeyboard BackReturnsHere="true">main-14x1-top</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="1">
-      <Symbol>MouseLeftClick</Symbol>
-      <Action>MouseMoveAndLeftClick</Action>
+      <Symbol>ArrowsAllDirectionsIcon</Symbol>    
+      <Action>MouseMagneticCursor</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="2">
-      <Symbol>MouseRightClick</Symbol>
-      <Action>MouseMoveAndRightClick</Action>
-    </DynamicKey>
-    <DynamicKey Row="0" Col="3">
       <Symbol>LookToScrollActiveIcon</Symbol>
       <Action>LookToScrollActive</Action>
     </DynamicKey>
+    <DynamicKey Row="0" Col="3">
+      <Symbol>MouseLeftClick</Symbol>
+      <Action>MouseMoveAndLeftClick</Action>
+    </DynamicKey>
     <DynamicKey Row="0" Col="4">
-      <Symbol>ArrowsAllDirectionsIcon</Symbol>    
-      <Action>MouseMagneticCursor</Action>
+      <Symbol>MouseRightClick</Symbol>
+      <Action>MouseMoveAndRightClick</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="5">
       <Symbol>DpadIcon</Symbol>
