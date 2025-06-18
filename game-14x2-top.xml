@@ -87,7 +87,7 @@
     </DynamicKey>
     <DynamicKey Row="1" Col="0">
       <Symbol>DownArrowKeyIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">game-14x1-bottom</ChangeKeyboard>
+      <ChangeKeyboard BackReturnsHere="true">game-14x2-bottom</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="1" Col="1">
       <Symbol>ArrowsAllDirectionsIcon</Symbol>    
