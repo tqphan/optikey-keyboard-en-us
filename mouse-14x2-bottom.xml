@@ -25,7 +25,7 @@
   <Content>
     <DynamicKey Row="0" Col="0">
       <Symbol>UpArrowKeyIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">mouse-14x1-top</ChangeKeyboard>
+      <ChangeKeyboard BackReturnsHere="true">mouse-14x2-top</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="1">
       <Symbol>ArrowsAllDirectionsIcon</Symbol>
