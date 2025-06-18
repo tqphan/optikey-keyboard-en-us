@@ -160,13 +160,24 @@
       <KeyGroup>Function</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="2" Col="6">
-      <KeyGroup>Blank</KeyGroup>
+      <Symbol>UndoIcon</Symbol>
+      <KeyDown>LCONTROL</KeyDown>
+      <Text>z</Text>
+      <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey Row="2" Col="7">
-      <KeyGroup>Blank</KeyGroup>
+      <Symbol>ToggleCommentIcon</Symbol>
+      <KeyDown>LCONTROL</KeyDown>
+      <Text>/</Text>
+      <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey Row="2" Col="8">
-      <KeyGroup>Blank</KeyGroup>
+      <Symbol>RedoIcon</Symbol>
+      <KeyDown>LCONTROL</KeyDown>
+      <KeyDown>LSHIFT</KeyDown>
+      <Text>z</Text>
+      <KeyUp>LSHIFT</KeyUp>
+      <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey Row="2" Col="9">
       <Symbol>DeleteKeyIcon</Symbol>
@@ -228,13 +239,22 @@
       <KeyGroup>Function</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="3" Col="6">
-      <KeyGroup>Blank</KeyGroup>
+      <Symbol>CopyIcon</Symbol>
+      <KeyDown>LCONTROL</KeyDown>
+      <Text>c</Text>
+      <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey Row="3" Col="7">
-      <KeyGroup>Blank</KeyGroup>
+      <Symbol>CutIcon</Symbol>
+      <KeyDown>LCONTROL</KeyDown>
+      <Text>x</Text>
+      <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey Row="3" Col="8">
-      <KeyGroup>Blank</KeyGroup>
+      <Symbol>PasteIcon</Symbol>
+      <KeyDown>LCONTROL</KeyDown>
+      <Text>v</Text>
+      <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey Row="3" Col="9">
       <Label>⮜</Label>

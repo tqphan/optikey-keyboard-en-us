@@ -40,8 +40,9 @@
       <KeyToggle>LWin</KeyToggle>
     </DynamicKey>
     <DynamicKey Row="0" Col="4">
-      <Label>x</Label>
-      <Text>x</Text>
+      <ShiftDownLabel>Z</ShiftDownLabel>
+      <Label>z</Label>
+      <Text>z</Text>
     </DynamicKey>
     <DynamicKey Row="0" Col="5">
       <Label>1</Label>
@@ -60,24 +61,29 @@
       <Text>4</Text>
     </DynamicKey>
     <DynamicKey Row="0" Col="9">
+      <ShiftDownLabel>A</ShiftDownLabel>
       <Label>a</Label>
       <KeyToggle>a</KeyToggle>
     </DynamicKey>
     <DynamicKey Row="0" Col="10">
+      <ShiftDownLabel>S</ShiftDownLabel>
       <Label>s</Label>
       <KeyToggle>s</KeyToggle>
     </DynamicKey>
     <DynamicKey Row="0" Col="11">
+      <ShiftDownLabel>D</ShiftDownLabel>
       <Label>d</Label>
       <KeyToggle>d</KeyToggle>
     </DynamicKey>
     <DynamicKey Row="0" Col="12">
-      <Label>c</Label>
-      <Text>c</Text>
+      <ShiftDownLabel>X</ShiftDownLabel>
+      <Label>x</Label>
+      <Text>x</Text>
     </DynamicKey>
     <DynamicKey Row="0" Col="13">
-      <Label>t</Label>
-      <Text>t</Text>
+      <ShiftDownLabel>R</ShiftDownLabel>
+      <Label>r</Label>
+      <Text>r</Text>
     </DynamicKey>
     <DynamicKey Row="1" Col="0">
       <Symbol>DownArrowKeyIcon</Symbol>
@@ -96,12 +102,14 @@
       <Text>&#32;</Text>
     </DynamicKey>
     <DynamicKey Row="1" Col="4">
-      <Label>t</Label>  
-      <Text>t</Text>
+      <ShiftDownLabel>C</ShiftDownLabel>
+      <Label>c</Label>  
+      <Text>c</Text>
     </DynamicKey>
     <DynamicKey Row="1" Col="5">
-      <Label>e</Label>  
-      <Text>e</Text>
+      <ShiftDownLabel>I</ShiftDownLabel>
+      <Label>i</Label>
+      <Text>i</Text>
     </DynamicKey>
     <DynamicKey Row="1" Col="6">
       <Symbol>KeyboardIcon</Symbol>
@@ -112,20 +120,24 @@
       <ChangeKeyboard BackReturnsHere="true">mouse-14x1-top</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="1" Col="8">
+      <ShiftDownLabel>F</ShiftDownLabel>
       <Label>f</Label>  
       <Text>f</Text>
     </DynamicKey>
     <DynamicKey Row="1" Col="9">
+      <ShiftDownLabel>Q</ShiftDownLabel>
       <Label>q</Label>  
       <Text>q</Text>
     </DynamicKey>
     <DynamicKey Row="1" Col="10">
+      <ShiftDownLabel>W</ShiftDownLabel>
       <Label>w</Label>  
-      <KeyToggle>W</KeyToggle>
+      <KeyToggle>w</KeyToggle>
     </DynamicKey>
     <DynamicKey Row="1" Col="11">
-      <Label>t</Label>  
-      <Text>t</Text>
+      <ShiftDownLabel>E</ShiftDownLabel>
+      <Label>e</Label>  
+      <Text>e</Text>
     </DynamicKey>
     <DynamicKey Row="1" Col="12">
       <Symbol>MoreIcon</Symbol>

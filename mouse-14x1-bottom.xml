@@ -17,9 +17,9 @@
     <Rows>1</Rows>
     <Cols>14</Cols>
   </Grid>
-  <KeyGroup 
-    BackgroundColor="#230F18" 
-    ForegroundColor="#ffffff" 
+  <KeyGroup
+    BackgroundColor="#230F18"
+    ForegroundColor="#ffffff"
     ForegroundOpacity="0.75"
     Name="All" />
   <Content>
@@ -28,7 +28,7 @@
       <ChangeKeyboard BackReturnsHere="true">mouse-14x1-top</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="1">
-      <Symbol>ArrowsAllDirectionsIcon</Symbol>    
+      <Symbol>ArrowsAllDirectionsIcon</Symbol>
       <Action>MouseMagneticCursor</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="2">
