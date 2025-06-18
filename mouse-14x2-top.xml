@@ -39,10 +39,11 @@
       <Symbol>WinKeyIcon</Symbol>
       <KeyToggle>LWin</KeyToggle>
     </DynamicKey>
-    <!-- change this to right button double click -->
     <DynamicKey Row="0" Col="4">
-      <Symbol>MouseRightButtonDoubleClickIcon</Symbol>
-      <Action>MouseMoveAndLeftDoubleClick</Action>
+      <Symbol>MouseLeftButtonTripleClickIcon</Symbol>
+      <Action>MouseLeftClick</Action>
+      <Action>MouseLeftClick</Action>
+      <Action>MouseLeftClick</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="5">
       <Symbol>ArrowPointingToLeftIcon</Symbol>
