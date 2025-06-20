@@ -44,7 +44,7 @@
       <Action>MouseMoveAndLeftDoubleClick</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="5">
-      <Symbol>MouseMoveToPoint</Symbol>
+      <Symbol>MouseMoveToPointIcon</Symbol>
       <Action>MouseMoveTo</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="6">
@@ -56,19 +56,19 @@
       <Action>RepeatLastMouseAction</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="8">
-      <Symbol>MouseLeftClickDrag</Symbol>
+      <Symbol>MouseLeftButtonClickDragIcon</Symbol>
       <Action>MouseDrag</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="9">
-      <Symbol>MouseRightClick</Symbol>
+      <Symbol>MouseRightButtonClickIcon</Symbol>
       <Action>MouseMoveAndRightClick</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="10">
-      <Symbol>MouseLeftClickDownUp</Symbol>
+      <Symbol>MouseLeftButtonDownUpIcon</Symbol>
       <Action>MouseLeftDownUp</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="11">
-      <Symbol>MouseRightClickDownUp</Symbol>
+      <Symbol>MouseRightButtonDownUpIcon</Symbol>
       <Action>MouseRightDownUp</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="12">

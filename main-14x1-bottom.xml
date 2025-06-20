@@ -36,11 +36,11 @@
       <Action>LookToScrollActive</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="3">
-      <Symbol>MouseLeftClick</Symbol>
+      <Symbol>MouseLeftButtonClickIcon</Symbol>
       <Action>MouseMoveAndLeftClick</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="4">
-      <Symbol>MouseRightClick</Symbol>
+      <Symbol>MouseRightButtonClickIcon</Symbol>
       <Action>MouseMoveAndRightClick</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="5">

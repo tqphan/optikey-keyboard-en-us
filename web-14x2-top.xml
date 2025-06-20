@@ -137,7 +137,7 @@
       <Action>MouseMoveAndLeftDoubleClick</Action>
     </DynamicKey>
     <DynamicKey Row="1" Col="5">
-      <Symbol>MouseMoveToPoint</Symbol>
+      <Symbol>MouseMoveToPointIcon</Symbol>
       <Action>MouseMoveTo</Action>
     </DynamicKey>
     <DynamicKey Row="1" Col="6">
@@ -149,7 +149,7 @@
       <ChangeKeyboard BackReturnsHere="true">mouse-14x1-top</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="1" Col="8">
-      <Symbol>MouseLeftClickDrag</Symbol>
+      <Symbol>MouseLeftButtonClickDragIcon</Symbol>
       <Action>MouseDrag</Action>
     </DynamicKey>
     <DynamicKey Row="1" Col="9">
