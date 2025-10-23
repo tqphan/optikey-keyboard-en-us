@@ -18,7 +18,7 @@
   </Grid>
   <KeyGroup Name="Minimize" Opacity="0.75" />
   <Content>
-    <DynamicKey Row="0" Col="0" CompletionTimes="750">
+    <DynamicKey CompletionTimes="750">
       <Symbol>MinimiseIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="false">main-14x1-bottom</ChangeKeyboard>
       <KeyGroup>Minimize</KeyGroup>

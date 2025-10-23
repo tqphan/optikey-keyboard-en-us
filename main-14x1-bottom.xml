@@ -23,48 +23,48 @@
     ForegroundOpacity="0.75"
     Name="Default" />
   <Content>
-    <DynamicKey Row="0" Col="0">
+    <DynamicKey>
       <Symbol>UpArrowKeyIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">main-14x1-top</ChangeKeyboard>
     </DynamicKey>
-    <DynamicKey Row="0" Col="1">
+    <DynamicKey>
       <Symbol>ArrowsAllDirectionsIcon</Symbol>    
       <Action>MouseMagneticCursor</Action>
     </DynamicKey>
-    <DynamicKey Row="0" Col="2">
+    <DynamicKey>
       <Symbol>LookToScrollActiveIcon</Symbol>
       <Action>LookToScrollActive</Action>
     </DynamicKey>
-    <DynamicKey Row="0" Col="3">
+    <DynamicKey>
       <Symbol>MouseLeftButtonClickIcon</Symbol>
       <Action>MouseMoveAndLeftClick</Action>
     </DynamicKey>
-    <DynamicKey Row="0" Col="4">
+    <DynamicKey>
       <Symbol>MouseRightButtonClickIcon</Symbol>
       <Action>MouseMoveAndRightClick</Action>
     </DynamicKey>
-    <DynamicKey Row="0" Col="5">
+    <DynamicKey>
       <Symbol>DpadIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">game-14x1-bottom</ChangeKeyboard>
     </DynamicKey>
-    <DynamicKey Row="0" Col="6">
+    <DynamicKey>
       <Symbol>KeyboardIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">keyboard-alphabet-14x4-bottom</ChangeKeyboard>
     </DynamicKey>
-    <DynamicKey Row="0" Col="7">
+    <DynamicKey>
       <Symbol>MouseNeutralIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">mouse-14x1-bottom</ChangeKeyboard>
     </DynamicKey>
-    <DynamicKey Row="0" Col="8">
+    <DynamicKey>
       <Symbol>BrowserIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">web-14x1-bottom</ChangeKeyboard>
     </DynamicKey>
-    <DynamicKey Row="0" Col="9">
+    <DynamicKey>
       <Symbol>WinKeyIcon</Symbol>
       <KeyDown>LWIN</KeyDown>
       <KeyUp>LWIN</KeyUp>
     </DynamicKey>
-    <DynamicKey Row="0" Col="10">
+    <DynamicKey>
       <Symbol>TransferUpDownIcon</Symbol>
       <KeyDown>LWIN</KeyDown>
       <KeyDown>LSHIFT</KeyDown>
@@ -73,7 +73,7 @@
       <KeyUp>LSHIFT</KeyUp>
       <KeyUp>LWIN</KeyUp>
     </DynamicKey>
-    <DynamicKey Row="0" Col="11">
+    <DynamicKey>
       <Symbol>CtrlAltTab</Symbol>
       <KeyDown>LMenu</KeyDown>
       <KeyDown>LCONTROL</KeyDown>
@@ -82,11 +82,11 @@
       <KeyUp>LMenu</KeyUp>
       <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
-    <DynamicKey Row="0" Col="12">
+    <DynamicKey>
       <Symbol>Sleep</Symbol>
       <Action>Sleep</Action>
     </DynamicKey>
-    <DynamicKey Row="0" Col="13">
+    <DynamicKey>
       <Symbol>MinimizeDownIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">minimized-off-screen-bottom</ChangeKeyboard>
     </DynamicKey>
