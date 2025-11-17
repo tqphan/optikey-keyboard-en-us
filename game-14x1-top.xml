@@ -33,9 +33,7 @@
     </DynamicKey>
     <DynamicKey>
       <Symbol>EscapeKeyIcon</Symbol>
-      <KeyDown>Escape</KeyDown>
-      <Wait>10</Wait>
-      <KeyUp>Escape</KeyUp>
+      <KeyToggle>Escape</KeyToggle>
     </DynamicKey>
     <DynamicKey>
       <Label>␣</Label>

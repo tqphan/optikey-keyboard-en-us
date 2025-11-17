@@ -33,9 +33,7 @@
     </DynamicKey>
     <DynamicKey>
       <Symbol>EscapeKeyIcon</Symbol>
-      <KeyDown>Escape</KeyDown>
-      <Wait>10</Wait>
-      <KeyUp>Escape</KeyUp>
+      <KeyToggle>Escape</KeyToggle>
     </DynamicKey>
     <DynamicKey>
       <Label>␣</Label>
@@ -93,7 +91,7 @@
     </DynamicKey>
     <DynamicKey>
       <Symbol>MoreIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">game-14x2-bottom</ChangeKeyboard>
+      <ChangeKeyboard BackReturnsHere="true">game-14x1-bottom</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey>
       <Symbol>NoIcon</Symbol>
@@ -124,27 +122,27 @@
     </DynamicKey>
     <DynamicKey>
       <Label>1</Label>
-      <KeyDown>1</KeyDown>
+      <KeyDown>VK_1</KeyDown>
       <Wait>10</Wait>
-      <KeyUp>1</KeyUp>
+      <KeyUp>VK_1</KeyUp>
     </DynamicKey>
     <DynamicKey>
       <Label>2</Label>
-      <KeyDown>2</KeyDown>
+      <KeyDown>VK_2</KeyDown>
       <Wait>10</Wait>
-      <KeyUp>2</KeyUp>
+      <KeyUp>VK_2</KeyUp>
     </DynamicKey>
     <DynamicKey>
       <Label>3</Label>
-      <KeyDown>3</KeyDown>
+      <KeyDown>VK_3</KeyDown>
       <Wait>10</Wait>
-      <KeyUp>3</KeyUp>
+      <KeyUp>VK_3</KeyUp>
     </DynamicKey>
     <DynamicKey>
       <Label>4</Label>
-      <KeyDown>4</KeyDown>
+      <KeyDown>VK_4</KeyDown>
       <Wait>10</Wait>
-      <KeyUp>4</KeyUp>
+      <KeyUp>VK_4</KeyUp>
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>A</ShiftDownLabel>

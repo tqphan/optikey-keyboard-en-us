@@ -239,9 +239,10 @@
       <KeyGroup>Navigation</KeyGroup>
     </DynamicKey>
     <DynamicKey>
-      <Label>~</Label>
-      <Text>~</Text>
-      <KeyGroup>Alphabet</KeyGroup>
+      <ShiftDownLabel>></ShiftDownLabel>
+      <Label>.</Label>
+      <Text>.</Text>
+      <KeyGroup>Punctuation</KeyGroup>
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>~</ShiftDownLabel>
