@@ -166,10 +166,9 @@
       <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey>
-      <Symbol>ToggleCommentIcon</Symbol>
-      <KeyDown>LCONTROL</KeyDown>
-      <Text>/</Text>
-      <KeyUp>LCONTROL</KeyUp>
+      <Symbol>CameraIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">minimized-off-screen-bottom</ChangeKeyboard>
+      <Action>PrintScreen</Action>
     </DynamicKey>
     <DynamicKey>
       <Symbol>RedoIcon</Symbol>
