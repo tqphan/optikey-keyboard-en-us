@@ -3,13 +3,10 @@
   <Width>100%</Width>
   <Height>11.50%</Height>
   <SymbolMargin>12</SymbolMargin>
-  <BorderThickness>0,0,0,0</BorderThickness>
   <DockSize>Full</DockSize>
   <Position>Bottom</Position>
   <HorizontalOffset>0</HorizontalOffset>
   <VerticalOffset>0</VerticalOffset>
-  <BackgroundColor>#FFFFFF</BackgroundColor>
-  <BorderColor>#FFFFFF</BorderColor>
   <WindowState>Floating</WindowState>
   <PersistNewState>false</PersistNewState>
   <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
@@ -25,6 +22,8 @@
   <Content>
     <DynamicKey>
       <Symbol>UpArrowKeyIcon</Symbol>
+  <BorderThickness>3,3,3,3</BorderThickness>
+  <BorderColor>#ff0000</BorderColor>
       <ChangeKeyboard BackReturnsHere="true">main-14x1-top</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey>
@@ -74,7 +73,7 @@
       <KeyUp>LWIN</KeyUp>
     </DynamicKey>
     <DynamicKey>
-      <Symbol>CtrlAltTab</Symbol>
+      <Symbol>CtrlAltTabIcon</Symbol>
       <KeyDown>LMenu</KeyDown>
       <KeyDown>LCONTROL</KeyDown>
       <KeyDown>TAB</KeyDown>
@@ -83,8 +82,9 @@
       <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey>
-      <Symbol>Sleep</Symbol>
-      <Action>Sleep</Action>
+      <Symbol>MoonZzzIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">blank-fullscreen-test</ChangeKeyboard>
+      <!-- <Action>Sleep</Action> -->
     </DynamicKey>
     <DynamicKey>
       <Symbol>MinimizeDownIcon</Symbol>
