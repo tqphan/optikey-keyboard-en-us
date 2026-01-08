@@ -194,8 +194,8 @@
       <KeyGroup>Navigation</KeyGroup>
     </DynamicKey>
     <DynamicKey>
-      <Label>_</Label>
-      <Text>_</Text>
+      <Label>/</Label>
+      <Text>/</Text>
       <KeyGroup>Punctuation</KeyGroup>
     </DynamicKey>
     <DynamicKey>

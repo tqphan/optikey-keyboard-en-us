@@ -83,8 +83,7 @@
     </DynamicKey>
     <DynamicKey>
       <Symbol>MoonZzzIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">blank-fullscreen-test</ChangeKeyboard>
-      <!-- <Action>Sleep</Action> -->
+      <Action>Sleep</Action>
     </DynamicKey>
     <DynamicKey>
       <Symbol>MinimizeDownIcon</Symbol>
