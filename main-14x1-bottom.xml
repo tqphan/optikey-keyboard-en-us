@@ -82,8 +82,8 @@
       <KeyUp>LCONTROL</KeyUp>
     </DynamicKey>
     <DynamicKey>
-      <Symbol>MoonZzzIcon</Symbol>
-      <Action>Sleep</Action>
+      <Symbol>ConversationIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">keyboard-conversation-fullscreen</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey>
       <Symbol>MinimizeDownIcon</Symbol>
