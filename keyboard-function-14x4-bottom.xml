@@ -210,7 +210,7 @@
     </DynamicKey>
     <DynamicKey>
       <Symbol>AltKeyIcon</Symbol>
-      <KeyToggle>LMENU</KeyToggle>
+      <Action>LeftAlt</Action>
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey>

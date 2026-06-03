@@ -14,9 +14,9 @@
     <Rows>1</Rows>
     <Cols>14</Cols>
   </Grid>
-  <KeyGroup 
-    BackgroundColor="#180F23" 
-    ForegroundColor="#ffffff" 
+  <KeyGroup
+    BackgroundColor="#180F23"
+    ForegroundColor="#ffffff"
     ForegroundOpacity="0.75"
     Name="All" />
   <Content>
@@ -24,13 +24,20 @@
       <Symbol>DownArrowKeyIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">game-14x1-bottom</ChangeKeyboard>
     </DynamicKey>
-    <DynamicKey>
+    <!-- <DynamicKey>
       <Symbol>ArrowsAllDirectionsIcon</Symbol>
       <Action>MouseMagneticCursor</Action>
+    </DynamicKey> -->
+    <DynamicKey>
+      <Symbol>AltKeyIcon</Symbol>
+      <KeyToggle>LMENU</KeyToggle>
     </DynamicKey>
     <DynamicKey>
       <Symbol>EscapeKeyIcon</Symbol>
-      <KeyToggle>Escape</KeyToggle>
+      <KeyDown>Escape</KeyDown>
+      <Wait>10</Wait>
+      <KeyUp>Escape</KeyUp>
+      <!-- <KeyToggle>Escape</KeyToggle> -->
     </DynamicKey>
     <DynamicKey>
       <Label>␣</Label>
@@ -40,14 +47,14 @@
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>C</ShiftDownLabel>
-      <Label>c</Label>  
+      <Label>c</Label>
       <KeyDown>c</KeyDown>
       <Wait>10</Wait>
       <KeyUp>c</KeyUp>
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>I</ShiftDownLabel>
-      <Label>i</Label>  
+      <Label>i</Label>
       <KeyDown>i</KeyDown>
       <Wait>10</Wait>
       <KeyUp>i</KeyUp>
@@ -62,26 +69,26 @@
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>F</ShiftDownLabel>
-      <Label>f</Label>  
+      <Label>f</Label>
       <KeyDown>f</KeyDown>
       <Wait>10</Wait>
       <KeyUp>f</KeyUp>
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>Q</ShiftDownLabel>
-      <Label>q</Label>  
+      <Label>q</Label>
       <KeyDown>q</KeyDown>
       <Wait>10</Wait>
       <KeyUp>q</KeyUp>
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>W</ShiftDownLabel>
-      <Label>w</Label>  
+      <Label>w</Label>
       <KeyToggle>w</KeyToggle>
     </DynamicKey>
     <DynamicKey>
       <ShiftDownLabel>E</ShiftDownLabel>
-      <Label>e</Label>  
+      <Label>e</Label>
       <KeyDown>e</KeyDown>
       <Wait>10</Wait>
       <KeyUp>e</KeyUp>

@@ -71,8 +71,14 @@
       <KeyUp>LWIN</KeyUp>
     </DynamicKey>
     <DynamicKey>
-      <Symbol>CtrlAltTabIcon</Symbol>
-      <Action>MenuKeyboard</Action>
+      <Symbol>SearchTextIcon</Symbol>
+      <!-- <Symbol>CtrlAltTabIcon</Symbol> -->
+      <KeyDown>LCONTROL</KeyDown>
+      <KeyDown>LSHIFT</KeyDown>
+      <Text>m</Text>
+      <KeyUp>LSHIFT</KeyUp>
+      <KeyUp>LCONTROL</KeyUp>
+      <!-- <Action>MenuKeyboard</Action> -->
     </DynamicKey>
     <DynamicKey>
       <Symbol>ConversationIcon</Symbol>
